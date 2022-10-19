@@ -1,0 +1,8 @@
+Buen dia!
+
+Para un correcto despliegue del api en su servidor, deberá ejecurar el script previamente adjuntado en el motor sql server, posterior a eso verificar la conexión del proyecto
+en el fichero appsettings.json y ya con eso sera suficiente para ejecurar el api.
+Por problemas con el pc no pude realizar el front para consumir el servicio, pero de igualmanera me siento en la capacidad de afrontar cualquier reto tanto para back como para front
+Agradezco la oportunidad de participar en el proceso y espero tener el espacio para exponer la arquitectura mostrada en el proyecto.
+
+Cordial saludo

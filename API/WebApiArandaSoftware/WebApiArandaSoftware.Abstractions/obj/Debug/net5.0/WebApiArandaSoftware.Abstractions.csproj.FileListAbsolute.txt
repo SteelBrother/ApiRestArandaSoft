@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\bin\Debug\net5.0\WebApiArandaSoftware.Abstractions.deps.json
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\bin\Debug\net5.0\WebApiArandaSoftware.Abstractions.runtimeconfig.json
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\bin\Debug\net5.0\WebApiArandaSoftware.Abstractions.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\bin\Debug\net5.0\WebApiArandaSoftware.Abstractions.dll
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\bin\Debug\net5.0\ref\WebApiArandaSoftware.Abstractions.dll
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\bin\Debug\net5.0\WebApiArandaSoftware.Abstractions.pdb
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\obj\Debug\net5.0\WebApiArandaSoftware.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\obj\Debug\net5.0\WebApiArandaSoftware.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\obj\Debug\net5.0\WebApiArandaSoftware.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\obj\Debug\net5.0\WebApiArandaSoftware.Abstractions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\obj\Debug\net5.0\WebApiArandaSoftware.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\obj\Debug\net5.0\WebApiArandaSoftware.Abstractions.dll
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\obj\Debug\net5.0\ref\WebApiArandaSoftware.Abstractions.dll
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\obj\Debug\net5.0\WebApiArandaSoftware.Abstractions.pdb
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Abstractions\obj\Debug\net5.0\WebApiArandaSoftware.Abstractions.genruntimeconfig.cache

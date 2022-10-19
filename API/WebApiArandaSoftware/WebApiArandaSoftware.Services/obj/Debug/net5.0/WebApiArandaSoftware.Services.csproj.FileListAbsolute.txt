@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\bin\Debug\net5.0\WebApiArandaSoftware.Services.deps.json
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\bin\Debug\net5.0\WebApiArandaSoftware.Services.runtimeconfig.json
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\bin\Debug\net5.0\WebApiArandaSoftware.Services.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\bin\Debug\net5.0\WebApiArandaSoftware.Services.dll
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\bin\Debug\net5.0\ref\WebApiArandaSoftware.Services.dll
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\bin\Debug\net5.0\WebApiArandaSoftware.Services.pdb
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\obj\Debug\net5.0\WebApiArandaSoftware.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\obj\Debug\net5.0\WebApiArandaSoftware.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\obj\Debug\net5.0\WebApiArandaSoftware.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\obj\Debug\net5.0\WebApiArandaSoftware.Services.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\obj\Debug\net5.0\WebApiArandaSoftware.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\obj\Debug\net5.0\WebApiArandaSoftware.Services.dll
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\obj\Debug\net5.0\ref\WebApiArandaSoftware.Services.dll
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\obj\Debug\net5.0\WebApiArandaSoftware.Services.pdb
+C:\Users\Admin\source\repos\WebApiArandaSoftware\WebApiArandaSoftware.Services\obj\Debug\net5.0\WebApiArandaSoftware.Services.genruntimeconfig.cache
